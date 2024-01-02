@@ -69,6 +69,36 @@ Welcome to my algorithms repository! This repository contains various sorting an
 **Algorithm Type:**
 - Greedy algorithm.
 
+
+## Choosing Algorithms Based on Use Cases
+
+1. **Sorting Large Datasets from a Database:**
+   - **Algorithm:** MergeSort or QuickSort
+
+2. **Sorting Small Datasets or Already Nearly Sorted Data:**
+   - **Algorithm:** Insertion Sort or Bubble Sort
+
+3. **Sorting Non-Integer Data or Custom Objects:**
+   - **Algorithm:** MergeSort (for stability) or QuickSort
+
+4. **Searching in a Sorted Dataset:**
+   - **Algorithm:** Binary Search
+
+5. **Graph Traversal for Analyzing Relationships:**
+   - **Algorithm:** Depth-First Search (DFS) or Breadth-First Search (BFS)
+
+6. **Finding Shortest Paths in Networks:**
+   - **Algorithm:** Dijkstra's Algorithm
+
+7. **Handling a Small Range of Integers:**
+   - **Algorithm:** Counting Sort
+
+8. **Sorting Arrays In-Place:**
+   - **Algorithm:** QuickSort or HeapSort
+
+9. **Sorting Linked Lists:**
+   - **Algorithm:** MergeSort
+
 ## Usage
 
 Feel free to explore the code for each algorithm in their respective directories. Each directory may contain implementations in different programming languages. You can use these algorithms as a reference or incorporate them into your projects as needed.
