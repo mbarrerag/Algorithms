@@ -1,5 +1,5 @@
 ![image](https://github.com/mbarrerag/Algorithms/assets/101472701/d3f17564-45e4-433f-b752-a9b6c8178941)
-
+Image from Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein - Introduction to Algorithm
 
 # Algorithms Repository
 
