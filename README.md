@@ -3,8 +3,7 @@
 
 # Algorithms Repository
 
-Welcome to my algorithms repository! This repository contains various sorting and graph algorithms implemented in different programming languages. Each algorithm has its own directory with the corresponding code.
-
+Welcome to my algorithms repository! This repository contains various sorting and graph algorithms implemented in Java.
 ## Sorting Algorithms
 
 ### QuickSort
