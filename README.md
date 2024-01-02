@@ -1,3 +1,6 @@
+![image](https://github.com/mbarrerag/Algorithms/assets/101472701/d3f17564-45e4-433f-b752-a9b6c8178941)
+
+
 # Algorithms Repository
 
 Welcome to my algorithms repository! This repository contains various sorting and graph algorithms implemented in different programming languages. Each algorithm has its own directory with the corresponding code.
